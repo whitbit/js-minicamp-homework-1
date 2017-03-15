@@ -10,10 +10,9 @@
 	* `if` statements
 	* Boolean values (`true`, `false`)
 
-
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
-
+asdfasdf
 3. Install SublimeText3.  If you have another editor that you prefer then you can use that. https://www.sublimetext.com/3
 
 
